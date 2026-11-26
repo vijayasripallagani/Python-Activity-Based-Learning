@@ -1,0 +1,15 @@
+============================================================================
+PROGRESSIVE ELECTRICITY BILL
+============================================================================
+Month    Units    Energy     Cess   Rebate      Total
+Jun        180   1060.00    21.20     0.00    1131.20
+Jul        245   1515.00    30.30     0.00    1595.30
+Aug        390   2710.00    54.20     0.00    2814.20
+Sep        310   1990.00    39.80    99.50    1980.30
+Oct        268   1676.00    33.52    83.80    1675.72
+
+MONTH ON MONTH COMPARISON
+Jun to Jul: +36.1%  UNUSUAL INCREASE
+Jul to Aug: +59.2%  UNUSUAL INCREASE
+Aug to Sep: -20.5%  rebate applied
+Sep to Oct: -13.5%  rebate applied

@@ -1,0 +1,15 @@
+======================================================================
+SCHOLARSHIP ALLOCATION - ELIGIBLE APPLICANTS
+======================================================================
+Rank  Roll    Name      Aggregate  Attendance
+1     S105    Fatima    91.20      97%       
+2     S101    Ananya    80.80      92%       
+3     S108    Ishaan    61.40      88%       
+4     S104    Deepak    61.40      76%       
+
+REJECTED APPLICANTS
+S102 Bharat: aggregate below 60; Physics below 50; 
+S103 Chitra: income above limit; 
+S106 Gopal: aggregate below 60; Chemistry below 50; attendance below 75; 
+S107 Harsha: income above limit; 
+Total: 4 eligible, 4 rejected.

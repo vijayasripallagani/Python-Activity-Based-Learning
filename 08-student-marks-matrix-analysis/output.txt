@@ -1,0 +1,20 @@
+==========================================================================
+STUDENT MARKS MATRIX ANALYSIS
+==========================================================================
+Name       Total   Average  Grade
+Ananya       404      80.8      B
+Bharat       293      58.6      D
+Chitra       360      72.0      C
+Deepak       307      61.4      C
+Fatima       456      91.2      A
+
+SUBJECT AVERAGES
+Maths      72.6
+Physics    67.6
+Chemistry  76.2
+English    70.6
+Computer   77.0
+
+Top performer : Fatima
+Weak subjects : Physics
+At-risk list  : Bharat

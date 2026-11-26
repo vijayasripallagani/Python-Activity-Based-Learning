@@ -1,0 +1,82 @@
+
+SMART CAMPUS MENU
+1. Add student   2. Attendance   3. Marks   4. Event
+5. Transport     6. Summary      0. Exit
+Enter choice: Roll: Name: Branch: Added
+
+SMART CAMPUS MENU
+1. Add student   2. Attendance   3. Marks   4. Event
+5. Transport     6. Summary      0. Exit
+Enter choice: Roll: Name: Branch: Added
+
+SMART CAMPUS MENU
+1. Add student   2. Attendance   3. Marks   4. Event
+5. Transport     6. Summary      0. Exit
+Enter choice: Roll: Name: Branch: Rejected
+
+SMART CAMPUS MENU
+1. Add student   2. Attendance   3. Marks   4. Event
+5. Transport     6. Summary      0. Exit
+Enter choice: Roll: Present: Total: Recorded
+
+SMART CAMPUS MENU
+1. Add student   2. Attendance   3. Marks   4. Event
+5. Transport     6. Summary      0. Exit
+Enter choice: Roll: Present: Total: Recorded
+
+SMART CAMPUS MENU
+1. Add student   2. Attendance   3. Marks   4. Event
+5. Transport     6. Summary      0. Exit
+Enter choice: Roll: Present: Total: Rejected
+
+SMART CAMPUS MENU
+1. Add student   2. Attendance   3. Marks   4. Event
+5. Transport     6. Summary      0. Exit
+Enter choice: Roll: Marks: Recorded
+
+SMART CAMPUS MENU
+1. Add student   2. Attendance   3. Marks   4. Event
+5. Transport     6. Summary      0. Exit
+Enter choice: Roll: Marks: Recorded
+
+SMART CAMPUS MENU
+1. Add student   2. Attendance   3. Marks   4. Event
+5. Transport     6. Summary      0. Exit
+Enter choice: Roll: Marks: Rejected
+
+SMART CAMPUS MENU
+1. Add student   2. Attendance   3. Marks   4. Event
+5. Transport     6. Summary      0. Exit
+Enter choice: Roll: Event: Registered
+
+SMART CAMPUS MENU
+1. Add student   2. Attendance   3. Marks   4. Event
+5. Transport     6. Summary      0. Exit
+Enter choice: Roll: Event: Rejected
+
+SMART CAMPUS MENU
+1. Add student   2. Attendance   3. Marks   4. Event
+5. Transport     6. Summary      0. Exit
+Enter choice: Roll: Event: Registered
+
+SMART CAMPUS MENU
+1. Add student   2. Attendance   3. Marks   4. Event
+5. Transport     6. Summary      0. Exit
+Enter choice: Route: Demand: Capacity: Route added
+
+SMART CAMPUS MENU
+1. Add student   2. Attendance   3. Marks   4. Event
+5. Transport     6. Summary      0. Exit
+Enter choice: 
+SUMMARY REPORT
+A1    Ananya    CSE   attendance: eligible
+A2    Bharat    ECE   attendance: not eligible
+A1    marks: [85, 78, 90, 82] grade: FIRST
+A2    marks: [55, 48, 62, 70] grade: THIRD
+Event registrations: 2, revenue Rs 350
+Route R1: 4 bus(es), 160 served, 20 unserved
+
+SMART CAMPUS MENU
+1. Add student   2. Attendance   3. Marks   4. Event
+5. Transport     6. Summary      0. Exit
+Enter choice: 

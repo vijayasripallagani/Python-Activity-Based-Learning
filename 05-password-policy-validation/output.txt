@@ -1,0 +1,11 @@
+==================================================================
+PASSWORD POLICY CHECK
+==================================================================
+MyCampus#2026    PASS
+short            FAIL: length below 8, missing uppercase, missing digit, missing special character
+lowercase1!      FAIL: missing uppercase
+UPPER123!        FAIL: missing lowercase
+Campus2026       FAIL: missing special character
+Admin#123        FAIL: prohibited word: admin
+Camp#aaa2026     FAIL: three identical characters in a row
+Accepted 1 of 7 sample passwords.

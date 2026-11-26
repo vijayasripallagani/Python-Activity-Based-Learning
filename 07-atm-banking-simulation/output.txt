@@ -1,0 +1,40 @@
+
+1. Deposit   2. Withdraw   3. Balance   4. Statement   5. Exit
+Enter choice: Amount: Deposited Rs 5000.00
+
+1. Deposit   2. Withdraw   3. Balance   4. Statement   5. Exit
+Enter choice: Amount: Withdrew Rs 2000.00
+
+1. Deposit   2. Withdraw   3. Balance   4. Statement   5. Exit
+Enter choice: Amount: Withdrawal must be between 0 and 10000.
+
+1. Deposit   2. Withdraw   3. Balance   4. Statement   5. Exit
+Enter choice: Amount: Withdrawal must be a multiple of 100.
+
+1. Deposit   2. Withdraw   3. Balance   4. Statement   5. Exit
+Enter choice: Amount: Withdrawal must be between 0 and 10000.
+
+1. Deposit   2. Withdraw   3. Balance   4. Statement   5. Exit
+Enter choice: Current balance: Rs 8000.00
+
+1. Deposit   2. Withdraw   3. Balance   4. Statement   5. Exit
+Enter choice: Amount: Deposited Rs 250.50
+
+1. Deposit   2. Withdraw   3. Balance   4. Statement   5. Exit
+Enter choice: ---- MINI STATEMENT ----
+DEPOSIT  Rs   5000.00   balance Rs  10000.00
+WITHDRAW Rs   2000.00   balance Rs   8000.00
+DEPOSIT  Rs    250.50   balance Rs   8250.50
+
+1. Deposit   2. Withdraw   3. Balance   4. Statement   5. Exit
+Enter choice: Amount: Withdrew Rs 100.00
+
+1. Deposit   2. Withdraw   3. Balance   4. Statement   5. Exit
+Enter choice: ---- MINI STATEMENT ----
+DEPOSIT  Rs   5000.00   balance Rs  10000.00
+WITHDRAW Rs   2000.00   balance Rs   8000.00
+DEPOSIT  Rs    250.50   balance Rs   8250.50
+WITHDRAW Rs    100.00   balance Rs   8150.50
+
+1. Deposit   2. Withdraw   3. Balance   4. Statement   5. Exit
+Enter choice: Session end: 4 transaction(s), closing balance Rs 8150.50

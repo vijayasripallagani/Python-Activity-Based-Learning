@@ -1,0 +1,11 @@
+========================================================================
+COURSE REGISTRATION VALIDATION
+========================================================================
+R01 : VALID
+R02 : INVALID - duplicate CS101
+R03 : INVALID - missing CS101 for CS201
+R04 : INVALID - more than 4 courses, PHY101 and PHY102 cannot be together
+R05 : VALID
+R06 : INVALID - missing CS201 for CS301
+
+Valid: 2, Invalid: 4, Total: 6

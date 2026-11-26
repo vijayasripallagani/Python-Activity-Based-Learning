@@ -1,0 +1,8 @@
+================================================================
+RUN LENGTH ENCODING
+================================================================
+aaabbbccc             -> a3b3c3                   9 -> 6 (saves 3 characters)
+python                -> p1y1t1h1o1n1             6 -> 12 (grows by 6 characters)
+aaaaaaaaaaaaaaaaaaaa  -> a20                      20 -> 3 (saves 17 characters)
+ababab                -> a1b1a1b1a1b1             6 -> 12 (grows by 6 characters)
+mississippi           -> m1i1s2i1s2i1p2i1         11 -> 16 (grows by 5 characters)
